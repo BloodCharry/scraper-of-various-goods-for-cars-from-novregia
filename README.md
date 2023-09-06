@@ -20,4 +20,4 @@ If necessary, you can use additional libraries to automatically clear data from 
 
 At the end of the script, a message is displayed that the process has been completed successfully and the data tables are saved in the specified directory.
 
-I do not debug the code in open access, this is my job, sorry).
+the script was not really mine, and was not working, so do not judge for the approach of correction for performance) a lot of crutches)
